@@ -1,0 +1,50 @@
+/* You can add global styles to this file, and also import other style files */
+*{
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html body{
+  padding: 0;
+  margin: 0;
+  position: fixed;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+::placeholder, button {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+// titles
+// font-family: 'Abril Fatface', cursive;
+// text
+// font-family: 'Monoton', cursive;
+// body
+// font-family: 'Roboto Condensed', sans-serif;
+// titles
+// font-family: 'Titan One', cursive;
+
+// colors
+//color:  #f8c900;
+// color: linear-gradient(to right top, #cb0000, #e45a00, #f39300, #f8c900, #f4ff00);
+// background-color: #242527;
+// #4d4637
+// #f8c90c
+// #b3aa99
+// #00d4ac
+// #006b61
+//  #242527;
+// #45474b;
+
+//shadows 
+// text-shadow: 4px 9px 9px rgba(0,0,0,0.64), 4px 9px 9px rgba(0,0,0,0.58);
+
+// box shadows
+
+//  -webkit-box-shadow: inset -13px 12px 36px -14px rgba(156,156,156,1);
+//     -moz-box-shadow: inset -13px 12px 36px -14px rgba(156,156,156,1);
+//     box-shadow: inset -13px 12px 36px -14px rgba(156,156,156,1);
+
+

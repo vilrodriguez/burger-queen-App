@@ -1,0 +1,31 @@
+.nav-menu-links {
+  width: 100%;
+  height: 100%;
+}
+
+.menu-button {
+  height: 25%;
+  width: 100%;
+  display: flex;
+  border-style: none;
+  font-weight: bolder;
+  font-size: xx-large;
+  display: -webkit-box;
+  color:  #e45a00;
+  font-family: 'Roboto Condensed', sans-serif;
+  background-color: #b3aa99;
+  text-align: center;
+  justify-content: center;
+}
+.menu-button:hover {
+  color: #f8c90c;
+  background-color:#006b61;
+  -webkit-box-shadow: 7px 9px 15px -1px rgba(171,171,171,1);
+  -moz-box-shadow: 7px 9px 15px -1px rgba(171,171,171,1);
+  box-shadow: 7px 9px 15px -1px rgba(171,171,171,1);
+}
+
+.menu-button:active {
+  color:  #242527;
+  background-color: #f8c90c;
+}
